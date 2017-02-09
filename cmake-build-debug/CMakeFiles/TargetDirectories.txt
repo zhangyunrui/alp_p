@@ -1,3 +1,0 @@
-/home/cloud/Desktop/git/alp_p/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cloud/Desktop/git/alp_p/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/cloud/Desktop/git/alp_p/cmake-build-debug/CMakeFiles/alp_p.dir
